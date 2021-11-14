@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * Division - Return the multiplication
+ * Division - Return the division
  * @c1: complex
  * @c2: complex
  * @c3: complex pointer
